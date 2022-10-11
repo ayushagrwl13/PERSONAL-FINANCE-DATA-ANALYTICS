@@ -11,3 +11,6 @@ Where/How do I spend ?
 Where/How do I save ?
 
 This project helps me in financial literacy at very early age and if anyone follow this project in his or her life, it will help in building financial literacy and wealth.
+
+![FINANCE_DASHBOARD](https://user-images.githubusercontent.com/112950866/195044766-7ae82b4b-2d83-4f5f-9276-76849ffdf370.png)
+
